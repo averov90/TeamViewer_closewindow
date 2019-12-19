@@ -27,11 +27,11 @@ BOOL CALLBACK EnumWindowsProc(HWND hwnd, LPARAM lParam)
 	return TRUE;
 }
 
-DWORD WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _In_ LPSTR lpCmdLine, _In_ int nCmdShow) {
+DWORD WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _In_ LPSTR lpCmdLine, _In_ INT nCmdShow) {
 	while (TRUE)
 	{
-		Sleep(15000);
+		Sleep(5000);
 		EnumWindows(&EnumWindowsProc, 0);
 	}
-  return FALSE;
+	return FALSE;
 }
