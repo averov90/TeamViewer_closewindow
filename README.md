@@ -1,4 +1,5 @@
 # TeamViewer close window
+[![License](https://img.shields.io/badge/LICENSE-The%20Unlicense-green?style=flat-square&logo=TeamViewer)](/LICENSE)
 ### Автоматическое закрытие окна "Спонсируемый сеанс" в TeamViewer
 Данная программа предназначена для компиляции с помощью MSVC Compiler.
 
