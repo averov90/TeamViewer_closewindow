@@ -1,5 +1,5 @@
 # TeamViewer close window
-[![License](https://img.shields.io/badge/LICENSE-The%20Unlicense-green?style=flat-square&logo=TeamViewer)](/LICENSE)
+[![License](https://img.shields.io/badge/LICENSE-The%20Unlicense-green?style=flat-square&logo=TeamViewer)](/LICENSE)  [![Version](https://img.shields.io/badge/VERSION-RELEASE%20--%201.0-green?style=flat-square)](https://github.com/averov90/TeamViewer_closewindow/releases/tag/1.0)
 ### Автоматическое закрытие окна "Спонсируемый сеанс" в TeamViewer
 Данная программа предназначена для компиляции с помощью MSVC Compiler.
 
